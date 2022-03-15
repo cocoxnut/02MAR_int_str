@@ -1,0 +1,6 @@
+a = input ('Your name:')
+b = input ('Age:')
+d = input ('Favorite movie:')
+print(a,b,d)
+print("Hello", a)
+print("Great movie", d)
